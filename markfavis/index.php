@@ -111,20 +111,20 @@
                 <li>Wingman was carefully written in order to allow code reusability for the Tank Game</li>
             </ul>
         </div>
-        
+
         <div id="Experience">
             <p>IT Consultant at SimStudios</p>
             <ul><li>Tasks including maintaining equipment functionality; adapting new methods of collecting data from simulation devices and exploring new ways to deploy simulators</li></ul>
             <p>Game Developer Intern at Make Games With Us SF</p>
             <ul><li>Tasks included designing and creating own thought of games in the Apple iOS platform on both iPad and iPhone devices and working with iOS APIs and Cocos2D engine to run the game
-</li></ul>
+                </li></ul>
             <p>Sales Representative at Fry's Electronics</p>
             <ul><li>Tasks included exceeding sales goals for the electronic components department, restocking products and following product schematics for shelf merchandise</li></ul>
             <p>Customer Service Rep at Fry's Electronics</p>
             <ul><li>Tasks included handling customer transactions and return, receiving phone calls and giving proper solutions to customers</li></ul>
         </div>
         <div id="footer">
-            
+
         </div>
     </body>
 </html>

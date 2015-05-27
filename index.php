@@ -10,7 +10,7 @@
             <h1>Welcome to GeniusWare</h1>
             <!--<h2>"Where Geniuses are born"</h2>-->
         </div>
-        
+
         <div id="footer">
             <p>Copyright 2015 - MF</p>
         </div>
